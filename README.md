@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi there! 👋 I'm Jiwon
 
-<!--
-**jiwonio/jiwonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A developer based in **Seoul, South Korea** 🇰🇷, passionate about bringing ideas to life through code.
 
-Here are some ideas to get you started:
+To be perfectly honest, my main goal isn't world domination – it's more about building cool stuff and having an absolute blast while I develop! My coding sessions are usually fueled by good coffee ☕ (sometimes *too much* coffee) and even better vibes ✨. I believe that development should be as enjoyable as the solutions it creates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm Up To 🚀
+
+* **Currently diving into:** PHP, Node.js
+* **Exploring:** New ways to optimize performance, build intuitive UIs.
+* **Learning:** Always curious about distributed systems, serverless architectures
+
+---
+
+### Let's Connect! 🤝
+
+I'm always open to new ideas, collaborations, or just a friendly chat about tech. Feel free to reach out or check out my work!
+
+* **You can find me on:**
+    * [LinkedIn](https://www.linkedin.com/in/jiwonio)
+    * [X (Twitter)](https://x.com/jiwoniio)
+    * [jiwon.io](https://jiwonio)
+
+Thanks for stopping by! 😊
