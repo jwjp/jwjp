@@ -21,6 +21,6 @@ I'm always open to new ideas, collaborations, or just a friendly chat about tech
 * **You can find me on:**
     * [LinkedIn](https://www.linkedin.com/in/jiwonio)
     * [X (Twitter)](https://x.com/jiwoniio)
-    * [jiwon.io](https://jiwonio)
+    * [jiwon.io](https://jiwon.io)
 
 Thanks for stopping by! 😊
